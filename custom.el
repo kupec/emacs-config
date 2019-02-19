@@ -12,7 +12,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (magit markdown-preview-mode js2-highlight-vars js2-refactor xref-js2 js2-mode ack ace-window))))
+    (kotlin-mode company company-shell company-web magit markdown-preview-mode js2-highlight-vars js2-refactor xref-js2 js2-mode ack ace-window))))
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.

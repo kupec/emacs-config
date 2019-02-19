@@ -8,3 +8,7 @@
 
 (global-set-key (kbd "C-x o") 'ace-window)
 (global-set-key (kbd "C-h") 'delete-backward-char)
+(global-set-key (kbd "C-x g") 'magit-status)
+
+(ido-mode)
+(company-mode)
